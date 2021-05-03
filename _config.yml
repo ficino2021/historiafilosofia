@@ -1,0 +1,10 @@
+
+# Site settings
+title: Historia de la Filosofia. Del renacimiento a Descartes
+author:
+  name: Ernesto Priani 
+  email: epriani@filos.unam.mx
+description: "Super sitio para mis clases"
+
+# Build settings
+remote_theme: jekyll/minima

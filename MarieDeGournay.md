@@ -12,7 +12,9 @@ En los últimos diez años, podemos encontrar dos principales tendencias de inve
 De entre estas dos, la que más resalta, y resulta ser más relevante para nosotros, es la categoría de análisis filosófico.
 Esta categoría es la más extensa de las dos.
 
-https://drive.google.com/file/d/1WjFaLmGXiUUXGGgJQZ3YSzyN8rSbmJPD/view?usp=sharing 
+![Tendencias de estudio en torno a Marie de Gournay](https://user-images.githubusercontent.com/84293360/120122825-e8bb0280-c170-11eb-9abc-4b04ce4741d8.png)
+
+Aquí puedes descargar la imagen: https://drive.google.com/file/d/1WjFaLmGXiUUXGGgJQZ3YSzyN8rSbmJPD/view?usp=sharing 
 
 ## Tendencias en el estudio de la filosofía de Marie De Gournay
 Dentro del análisis filosófico, la mayor parte de los recursos bibliográficos se centran en su pensamiento político y feminista. 
@@ -21,9 +23,25 @@ Por otro lado, también hay muchos estudios que se enfocan en su pensamiento fil
 Finalmente, podemos encontrar algunos textos que buscan hacer un recuento de las ideas de Marie de Gournay con respecto a la Historia. 
 Específicamente, estos textos se centran en sus ideas sobre la recuperación de la memoria de la mujer en la Historia, al igual que la ceguera sistemática sobre el pensamiento femenino y su represión histórica.
 
-https://drive.google.com/file/d/1dnUBZESd4cojObS4BmOVV7RUh48LkFR5/view?usp=sharing
+![Tendencias en los estudios sobre la Filosofía de Marie de Gournay](https://user-images.githubusercontent.com/84293360/120122823-e8226c00-c170-11eb-958a-acb9b1a48955.png)
 
-### Bibliografía
+Aquí puedes descargar la imagen: https://drive.google.com/file/d/1dnUBZESd4cojObS4BmOVV7RUh48LkFR5/view?usp=sharing
+
+## Podcast: Mujeres en la Filosofía
+
+### 1. Contexto general del Renacimiento
+
+En este episodio, hablamos sobre el contexto histórico e intelectual de esta época y sobre el problema de la periodización. Puedes escucharlo en este link: https://drive.google.com/file/d/1xARlCQw2NNJ96xegMZxA-0CA2gKu8IRk/view?usp=sharing
+
+### 2. Marie de Gournay
+
+En este episodio, hablamos sobre el contexto histórico e intelectual en torno a las mujeres en el Renacimiento y sobre la vida y el pensamiento de Marie de Gournay. Puedes escucharlo en este link:  https://drive.google.com/file/d/1vOXxF1dYDOdUq0OjEM4fOGuRenpj6JT6/view?usp=sharing
+
+### 3. Comentario de texto de Marie de Gournay
+
+En este episodio, comentamos un fragmento de la obra de Marie de Gournay. Puedes escucharlo en este link: https://drive.google.com/file/d/1LaWn0pU_hxiOxXHqdbi25SUPIhdmnXt7/view?usp=sharing
+
+## Bibliografía
 Apology for the Woman Writing and other works, ed. y trad. de Richard Hillman y Colette Quesnel, University of Chicago Press, 2002. https://www.libgen.is/book/index.php?md5=47C114ACB2C48BDF0BA8931D74F68EB3
 
 Beitz, Ursula, “Marie le Jars de Gournay, eine unabhängige Intellektuelle des frühen 17. Jahrhunderts”, Feministische Studien, Vol. 34, Núm. 1, 2016.

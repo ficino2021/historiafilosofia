@@ -1,3 +1,9 @@
+
+---
+layout: page
+title: Marie De Gournay
+---
+
 # Tendencias de investigación sobre Marie De Gournay
 
 Las investigaciones sobre Marie De Gournay giraron por mucho tiempo en torno a su relación con Michel de Montaigne. 

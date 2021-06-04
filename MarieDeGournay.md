@@ -3,7 +3,7 @@ layout: page
 title: Marie De Gournay
 ---
 
-# Marie de Gournay: representante de la filosofía femenina del Renacimiento
+# Una representante de la filosofía femenina del Renacimiento
 
 Los estudios en Historia de la Filosofía nos han mostrado que la Historia de las Mujeres Filósofas no ha sido muy favorecida. Es el caso de muchas, que son estudiadas por sus relaciones con otrOs filósofOs, varones, claramente. El pensamiento de la mujer ha sido sistemáticamente olvidada o dejada de lado. No podíamos, por tanto, esperar algo distinto del estudio de las filósofas del Renacimiento: Las investigaciones sobre Marie De Gournay giraron por mucho tiempo en torno a su relación con Michel de Montaigne. 
 Por fortuna, esto ha cambiado en la súltimas décadas: Cada vez son más las investigaciones que se enfocan en su pensamiento y obra literaria, independiente de la clara influencia de su mentor. 

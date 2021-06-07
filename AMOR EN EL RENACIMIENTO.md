@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Amor
+title: Amor en el Renacimiento 
 ---
 
-# Amor en el Renacimiento
 
 ## Podcasts 
 

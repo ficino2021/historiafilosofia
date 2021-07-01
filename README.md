@@ -1,4 +1,4 @@
-Este es el sitio de Historia de la Filosofía 4
+Este es el sitio de Historia de la Filosofía 4sds
 
 Es aqui donde harás la página que corresponde a la segunda acividad del grupo. Para hacerlo sigue estas instrucciones: 
 

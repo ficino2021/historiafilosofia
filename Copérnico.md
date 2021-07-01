@@ -5,4 +5,4 @@ layout: page
 title: About
 --- 
 
-#Revolución Copérnicana 
+# Revolución Copernica 

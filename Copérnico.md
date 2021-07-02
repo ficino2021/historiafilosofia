@@ -23,9 +23,9 @@ Mientras que en ultimo lugar se encuentran las fuentes que hablan de disitntas c
 
 Cabe destacar, que algo que tienen en común la mayoria de las fuentes es que, todas ellas hacen una reflexión respecto al papel que juega el hombre en el universo, sí le dan crédito a la idea del heliocentrismo, pero rescatan el cambio de la ideología que es lo que tiene más peso para la humanidad con un ser egocéntrico. 
 
+## Podcast: Estrellados en el universo
 
-## Podcast: *Estrellados en el Universo
-Para poder entender de qué va la **Revolución copernicana**, se recomienda escuchar el siguiente podcast :
+Para poder entender de qué va  la **Revolución copernicana**, se recomienda escuchar la siguiente serie de podcast: 
 
 1. Para entender el contexto historico cultural del Renacimiento, aquí se explica la visión que se tenia del universo antes de esta revolución:  https://youtu.be/AlaRg8cYe7I
 2. Para poder comprender mejor lo qué es la **Revolución copernica**, el proceso y sus disitntas implicaciones: https://youtu.be/5NghnM_marw

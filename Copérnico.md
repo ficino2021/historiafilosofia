@@ -11,4 +11,8 @@ Esta revolución que, empieza en el siglo XVI con Nicolás Copérnico y termina 
 
 ## Tendencias de investigación sobre la Revolución copernicana
 
-A lo largo de los años, la **Revolución copernicana** ha sido tema de interes en distintos ámbito, principalmente física, filosofía, astronomía e incluso sociología.  Aquí hablaremos sobre los distintos enfoques que se le ha dado a este tema  durante los últikmos 10 años.
+A lo largo de los años, la **Revolución copernicana** ha sido tema de interes en distintos ámbito, principalmente física, filosofía, astronomía e incluso sociología.  Aquí hablaremos sobre los distintos enfoques que se le ha dado a este tema  durante los últikmos 10 años. A través de la búsqueda de fuentes de información sobre ésta, encontré lo siguiente:
+![Graf](https://user-images.githubusercontent.com/85921149/124204736-4bbbf400-daa5-11eb-8f17-ef42d30a9908.png)
+
+
+

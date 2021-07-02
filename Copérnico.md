@@ -23,3 +23,25 @@ Mientras que en ultimo lugar se encuentran las fuentes que hablan de disitntas c
 
 Cabe destacar, que algo que tienen en común la mayoria de las fuentes es que, todas ellas hacen una reflexión respecto al papel que juega el hombre en el universo, sí le dan crédito a la idea del heliocentrismo, pero rescatan el cambio de la ideología que es lo que tiene más peso para la humanidad con un ser egocéntrico. 
 
+
+## Podcast: *Estrellados en el Universo
+Para poder entender de qué va la **Revolución copernicana**, se recomienda escuchar el siguiente podcast :
+
+1. Para entender el contexto historico cultural del Renacimiento, aquí se explica la visión que se tenia del universo antes de esta revolución:  https://youtu.be/AlaRg8cYe7I
+2. Para poder comprender mejor lo qué es la **Revolución copernica**, el proceso y sus disitntas implicaciones: https://youtu.be/5NghnM_marw
+3. Para terminar, en este podcast se lee un fragmento del Libro *Sobre las revoluciones de las esferas celestes* y un comentario : https://youtu.be/meKsG3h1-1g
+
+
+## Bibliografía
+
+1. Russell, B. (1970). La revolución copernicana. Revista de la Universidad Nacional (1944-1992), (5), 237-254.
+2. SOLÍS, C.: «La revolución copernicana y quiénes la hicieron». Teorema: Revista Internacional de Filosofía, Vol. 4, No. 1 (1974), págs. 29-46. Recuperado de: https://www.jstor.org/stable/43047238?seq=1
+3. Alonso, J. (2020). Hacia una nueva revolución copernicana. Desacatos: Revista de Ciencias Sociales, (63), 144-159.
+4. Sánchez, J. A. (2020). Hacia una nueva revolución Copernicana. Revista FAIA-Filosofía Afro-Indo-Abiayalense, 7(32).
+5. Casas Navarro, R. (2016). El principio de simetría en la revolución copernicana. Tradición, Segunda época, (13), 101-107. https://doi.org/10.31381/tradicion.v0i13.373
+6. Giordano, E. (2021). Una progresión de aprendizaje sobre ideas básicas entre Física y Astronomía. Góndola, enseñanza y aprendizaje de las ciencias, 16(2). https://doi.org/10.14483/23464712.17107
+7. Ayala, F. (2001). El azar y la selección natural: De Copérnico a Darwin. Pasajes, (7), 124-135. Retrieved June 15, 2021, from http://www.jstor.org/stable/23074578
+8. Bravo, E. (1979). Crítica: Revista Hispanoamericana De Filosofía, 11(31), 140-147. Retrieved June 15, 2021, from http://www.jstor.org/stable/40104130
+9. Funes, J. (2002). La imagen actual del universo y: Algunas de sus implicaciones filosóficas. Revista Portuguesa De Filosofia, 58(4), 953-958. Retrieved June 15, 2021, from http://www.jstor.org/stable/40337731
+10. Melogno, P. (2018). TRAS LAS RAÍCES DE KUHN: UN EJERCICIO DE ARQUEOLOGÍA. NOTA CRÍTICA SOBRE THOMAS S. KUHN: LA BÚSQUEDA DE LA ESTRUCTURA. Crítica: Revista Hispanoamericana De Filosofía, 50(150), 113-122. Retrieved June 15, 2021, from https://www.jstor.org/stable/26639812
+11. Di Segni, D. (2010). DA «RABBI» GALILEO A COPERNICO «PRIMOGENITO DEL SATAN»: LE DIVERSE REAZIONI DEL MONDO EBRAICO ALLA RIVOLUZIONE ASTRONOMICA. La Rassegna Mensile Di Israel, 76(3), 146-176. Retrieved June 15, 2021, from http://www.jstor.org/stable/41619045

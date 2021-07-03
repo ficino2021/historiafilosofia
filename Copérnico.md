@@ -15,7 +15,7 @@ A través de la búsqueda de fuentes de información sobre ésta, encontré lo s
 
 ### Gráfica de tendencias
 
-![Graf](https://user-images.githubusercontent.com/85921149/124204736-4bbbf400-daa5-11eb-8f17-ef42d30a9908.png)
+![Gra](https://user-images.githubusercontent.com/85921149/124342996-e8f25780-db8d-11eb-9061-a280701303c6.png)
 
 Como podemos observar en la anterior gráfica, la mayoría de las fuentes encontradas se relacionan con la astronomía, más o menos el 50% de las fuentes, en ellas destacan la composición y estructura del universo, resaltando el paso del geocentrismo.
 En segundo lugar, la tendencia que le sigue, con el 40% habla especialmente sobre Khun.

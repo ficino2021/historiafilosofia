@@ -17,20 +17,21 @@ A través de la búsqueda de fuentes de información sobre ésta, encontré lo s
 
 ![Gra](https://user-images.githubusercontent.com/85921149/124342996-e8f25780-db8d-11eb-9061-a280701303c6.png)
 
-Como podemos observar en la anterior gráfica, la mayoría de las fuentes encontradas se relacionan con la astronomía, más o menos el 50% de las fuentes, en ellas destacan la composición y estructura del universo, resaltando el paso del geocentrismo.
-En segundo lugar, la tendencia que le sigue, con el 40% habla especialmente sobre Khun.
-Mientras que en ultimo lugar se encuentran las fuentes que hablan de disitntas cosas, fuera de los primeros dos ámbitos, destacando una de ellas, la cual tiene que ver con el anticapitalísmo.
+Como podemos observar en la anterior gráfica, la mayoría de las fuentes encontradas se relacionan con la astronomía, más o menos el 50% de las fuentes. En ellas destaca la composición y estructura del universo, resaltando el paso al heliocentrismo y los movimientos de la Tierra, que Nicolás Copérnico postulo en su libro *Sobre las revoluciones de las esferas celestes*, además, que muchos artículos, narran el proceso de este cambio y las nuevas aportaciones de distintos autores, hasta llegar al sistema que se conoce actualmente.
 
-Cabe destacar, que algo que tienen en común la mayoria de las fuentes es que, todas ellas hacen una reflexión respecto al papel que juega el hombre en el universo, sí le dan crédito a la idea del heliocentrismo, pero rescatan el cambio de la ideología que es lo que tiene más peso para la humanidad con un ser egocéntrico. 
+En segundo lugar, la tendencia que le sigue, con el 40% habla específicamente sobre Khun y sus libros, principalmente se enfocaban a críticas hacia él y sus aportaciones. Se puede decir, que, en cierto modo, destacan a Kuhn como historiador de la ciencia con pretensiones filosóficas. 
+
+Mientras que, en último lugar, se encuentran las fuentes que hablan de distintas cosas fuera de los primeros dos ámbitos. A partir de este análisis, caí en la cuenta de que ahora, la *revolución copernicana* transgrede ámbitos, es decir, ahora se relaciona con otros temas, por ejemplo: el capitalismo o la simetría. Me interesó la forma en que relacionan nuevos temas que surgen actualmente con un tema que lleva años en la historia de la ciencia. 
+
+Cabe destacar que la mayoría de las fuentes hacen una pequeña reflexión respecto al papel que juega el hombre en el universo, rescatando el cambio de la ideología, porque el hombre pasa de ser el centro (lo más importante del sistema) a ser solo una *parte* de ese sistema, que, quizá su participación en el universo sea poco significante.
 
 ## Podcast: Estrellados en el universo
 
-Para poder entender de qué va  la **Revolución copernicana**, se recomienda escuchar la siguiente serie de podcast: 
+Para poder entender de qué va la Revolución copernicana, se recomienda escuchar el siguiente podcast: 
 
-1. Para entender el contexto historico cultural del Renacimiento, aquí se explica la visión que se tenia del universo antes de esta revolución:  https://youtu.be/AlaRg8cYe7I
-2. Para poder comprender mejor lo qué es la **Revolución copernica**, el proceso y sus disitntas implicaciones: https://youtu.be/5NghnM_marw
-3. Para terminar, en este podcast se lee un fragmento del Libro *Sobre las revoluciones de las esferas celestes* y un comentario : https://youtu.be/meKsG3h1-1g
-
+1.	Para entender el contexto histórico-cultural del Renacimiento, aquí se explica la visión que se tenía del universo antes de esta revolución: https://youtu.be/AlaRg8cYe7I
+2.	Para poder comprender mejor lo qué es la **Revolución copernicana**, aquí el proceso y sus distintas implicaciones: https://youtu.be/5NghnM_marw
+3.	Para terminar, en este podcast se lee un fragmento del Libro *Sobre las revoluciones de las esferas celestes* y un comentario del mismo: https://youtu.be/meKsG3h1-1g
 
 ## Bibliografía
 

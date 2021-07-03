@@ -1,6 +1,6 @@
 ---
 diseño: página
-title: Nicolás Maquiavelo
+title:  Maquiavelo
 ---
 
 # VIDA, OBRA Y LEGADO DE NICOLÁS MAQUIAVELO

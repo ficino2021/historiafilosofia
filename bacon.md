@@ -7,9 +7,9 @@ title: Bacon
 
 En esta investigación nos hemos enfocado en obras del filósofo inglés Francis Bacon, principalmente en uno de sus textos más conocidos: el *Novum Organum* y en la forma en la que él concibe a la naturaleza dentro de esta obra, pues este tema a veces llega a causar controversia entre académicos, filósofos, investigadores y cualquier interesado en el asunto. Para esto hemos utilizado artículos y libros que profundicen en el tema a manera de complemento y recopilado información acerca de las tendencias de investigación que más destacan a lo largo de los últimos años sobre el conjunto total de sus obras. Como fruto de esta indagación hemos elaborado una serie de podcast, los cuales intentan hacer más sintética la información recopilada para disfrute del oyente. Puedes escucharlos haciendo click en los siguientes links: 
 
-## 1. [*Contexto de Bacon*] (*https://www.podbean.com/ei/pb-ucq7m-10524f0*)
-## 2. [*La naturaleza en el* Novum Organum] (*https://www.podbean.com/ei/pb-mxy38-1053bd6*)
-## 3. [*Comentando a Bacon*] (*https://www.podbean.com/ei/pb-fqv64-1053d42*)
+## 1. [*Contexto de Bacon*](https://www.podbean.com/ei/pb-ucq7m-10524f0)
+## 2. [*La naturaleza en el* Novum Organum](https://www.podbean.com/ei/pb-mxy38-1053bd6)
+## 3. [*Comentando a Bacon*](https://www.podbean.com/ei/pb-fqv64-1053d42)
 
 # Tendencias de investigación sobre su obra en general en los últimos años
 

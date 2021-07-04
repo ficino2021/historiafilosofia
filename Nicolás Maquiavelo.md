@@ -9,11 +9,11 @@ Nicolás Maquiavelo pensador y político renacentista florentino, considerado el
 
 Por lo anterior, se invita al lector a adentrarse en la vida del florentino sin dejar de lado la época en que se desarrolla su trayectoria política, el renacimiento. A continuación, encontrarán tres podcasts (podrá escucharse desde la plataforma Spotify “¡Súbete, a la pecera del mundo de la filosofía!”), que los invita a este recorrido:
 
-###  1. El renacimiento: *https://open.spotify.com/episode/3oCjxotLSgRtoLyAh6FumS?si=mJn5_GYbQSm1lZ8egJtP7w&dl_branch=1*
+###  1. [El renacimiento:](*https://open.spotify.com/episode/3oCjxotLSgRtoLyAh6FumS?si=mJn5_GYbQSm1lZ8egJtP7w&dl_branch=1*)
 
-### 2. Vida y obra de Nicolás Maquiavelo: *https://open.spotify.com/episode/6K9xwxF9692yRTTJyCYBRm?si=9SSeyRBFTemJz83emIiiyg&dl_branch=1*
+### 2. [Vida y obra de Nicolás Maquiavelo:](*https://open.spotify.com/episode/6K9xwxF9692yRTTJyCYBRm?si=9SSeyRBFTemJz83emIiiyg&dl_branch=1*)
 
-### 3. El príncipe de Nicolás Maquievlo: *https://open.spotify.com/episode/2VkNeMcOxlWN1v37Ees4g5?si=U8LgSmJ-QteVHslqaoQxaQ&dl_branch=1*
+### 3. [El príncipe de Nicolás Maquievlo:](*https://open.spotify.com/episode/2VkNeMcOxlWN1v37Ees4g5?si=U8LgSmJ-QteVHslqaoQxaQ&dl_branch=1*)
 
 ## TENDENCIAS DE INVESTIGACIÓN SOBRE LA OBRA Y LEGADO DE NICOLÁS MAQUIVAELO EN LOS ÚLTIMOS DIEZ AÑOS (DEL PERIODO 2010 AL 2021)
 

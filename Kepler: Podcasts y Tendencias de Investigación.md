@@ -3,8 +3,6 @@ layout: page
 title: Kepler
 ---
 
-# Kepler
-
 Kepler, como se podrá apreciar a continuación, sigue siendo un referente relativamente importante en la filosofía. Sigue llamando la atención la importancia de las 
 matemáticas para su pensamiento científico; la relación de su pensamiento científico con su cristianismo; y su concepción de los planetas como seres con alma. Por 
 ello, a continuación incluyo una serie de Podcasts de este autor, así como de su contexto. Adicionalmente incluyo un análisis de los aspectos de Kepler que hoy en día 

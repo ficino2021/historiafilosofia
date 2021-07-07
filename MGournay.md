@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tendencia del feminismo
+title: Feminismo renacentista
 ---
 
-# Tendencia del feminismo renacentista: Marie de Gournay
+# Tendencia del feminismo: Marie de Gournay

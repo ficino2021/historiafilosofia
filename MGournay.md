@@ -4,11 +4,11 @@ title: Feminismo renacentista
 ---
 
 # Tendencia del feminismo: Marie de Gournay
-Considerada una humanista, filósofa y defensora de los derechos de las mujeres en la época renacentista, Marie de Gournay, abarca los inicios de feminismo en los sigos XVI y XVII en Francia. Esta autora, ha sido propósito de estudios dentro del personaje Michel de Montainge; sin embargo, y principalmente, es reconocida por escribir las causas de la desigualdad que residen en la cultura patriarcal.
-Esta precursora histórica del feminismo, con su principal obra: *Escritos sobre la igualdad y en defensa de las mujeres (1622)* no solamente logra abrir los ojos a otras mujeres de su época generando un debate acerca de el valor intelectual del sexo femenino; además, inicia un cambio histórico que infuyó en la reelaboración sobre la idea de igualdad de sexos.
+Considerada una humanista, filósofa y defensora de los derechos de las mujeres en la época renacentista, Marie de Gournay, abarca los inicios de feminismo en los sigos XVI y XVII, en Francia. Esta autora, ha sido propósito de estudios dentro del personaje Michel de Montainge; sin embargo, y principalmente, es reconocida por escribir las causas de la desigualdad que residen en la cultura patriarcal.
+Esta precursora histórica del feminismo, con su principal obra: *Escritos sobre la igualdad y en defensa de las mujeres* (1622) no solamente logra abrir los ojos a otras mujeres de su época generando un debate acerca de el valor intelectual del sexo femenino; además, inicia un cambio histórico que infuyó en la reelaboración sobre la idea de igualdad de sexos.
 
 # Informe dentro de las plataformas digitales
-La intención sobre investigar acerca de Marie de Gournay, es lograr observar si dentro de dichas plataformas tan extensas, había información destacada sobre esta escritora, pensadora y defensora de la igualdad de las mujeres entre los hombres. 
+La intención de investigar acerca de Marie de Gournay, es lograr observar si dentro de dichas plataformas tan extensas, hay información destacada sobre esta escritora, pensadora y defensora de la igualdad de las mujeres entre los hombres. 
 
 Basándonos en Google y Google Académico, la intención de esta búsqueda, es resaltar los 4 tipos de tendencias que se encuentran en dichos buscadores en los últimos 10 años:
 
@@ -21,7 +21,7 @@ Basándonos en Google y Google Académico, la intención de esta búsqueda, es r
 
 En esta tendencia, se descubrieron varios enfoques. Donde dependiendo de la plataforma, uno resalta más que otro. Por ejemplo, en Google Académico, se encontró más información que gira en torno a Michel de Montaigne, a comparación de la filosofía descrita dentro de las páginas feministas en Google. 
 
-Dentro de este análisis, sí se lograron encontrar resultados con intención de resaltar a tan destacada y renacentista autora. Además, al poner su nombre, se inculyeron varios temnas: Michel de Montaigne, otras autoras de la época, y artículo sobre la historia del feminismo. Es importante resaltar, que las páginas feministas son las más interesadas por la vida y obra de Marie de Gournay. Además de artículos, donde se logra entender que están escritos por mujeres con el propósito de resaltar a este ícono importante dentro de la historia Renacentista.
+Dentro de este análisis, sí se lograron encontrar resultados con intención de resaltar a tan destacada y renacentista autora. Además, al poner su nombre, se inculyeron varios temnas: Michel de Montaigne, otras autoras de la época, y artículo sobre la historia del feminismo. Es importante mencionar, que las páginas feministas son las más interesadas por la vida y obra de Marie de Gournay. Además de los artículos: donde se logra entender que están escritos por mujeres con el propósito de resaltar a este ícono importante dentro de la historia Renacentista.
 
 ### Recomendación: *¡Los inivitamos a escuchar el podcast sobre Kepler y el Giro Copernicano!* 
 

@@ -19,10 +19,15 @@ Basándonos en Google y Google Académico, la intención de esta búsqueda, es r
 
 ### Gráfica. Tendencias de investigación sobre Marie de Gournay![Tendencias_de_Investigación-M Gournay](https://user-images.githubusercontent.com/86990373/124838155-e2782d00-df4b-11eb-95b0-861cc4261a12.png)
 
+En esta tendencia, se descubrieron varios enfoques. Donde dependiendo de la plataforma, uno resalta más que otro. Por ejemplo, en Google Académico, se encontró más información que gira en torno a Michel de Montaigne, a comparación de la filosofía descrita dentro de las páginas feministas en Google. 
 
-# Los inivitamos a escuchar el podcast sobre Kepler y el Giro Copernicano 
+Dentro de este análisis, sí se lograron encontrar resultados con intención de resaltar a tan destacada y renacentista autora. Además, al poner su nombre, se inculyeron varios temnas: Michel de Montaigne, otras autoras de la época, y artículo sobre la historia del feminismo. Es importante resaltar, que las páginas feministas son las más interesadas por la vida y obra de Marie de Gournay. Además de artículos, donde se logra entender que están escritos por mujeres con el propósito de resaltar a este ícono importante dentro de la historia Renacentista.
 
-## Fuentes de Consulta
+### Recomendación: *¡Los inivitamos a escuchar el podcast sobre Kepler y el Giro Copernicano!* 
+
+(Falta insertar podcast)
+
+# Fuentes de Consulta
 ANTOLIN, Maria Sol, Marie de Gournay, precursora histórica del feminismo, en Diario Feminista [en línea], Barcelona, España, junio, 2017. <https://eldiariofeminista.info/2020/06/06/marie-de-gournay-precursora-historica-del-feminismo/>.  [Consulta: 2 de julio, 2021.]
 
 OJEA, Maria Elena, De la dignidad y la capacidad intelectual de las mujeres Marie de Gournay y Concepción Arenal: analogías y divergencias, en Mujeres de letras: pioneras en el arte, el ensayismo y la educación, Bloque dos [en línea], España, 2016. <http://www.carm.es/edu/pub/20_2016/creditos.html>.   [Consulta: 2 de julio, 2021.]
@@ -32,3 +37,8 @@ PADRINO, Aora, Marie de Gournay. Escritos sobre la igualdad y en defensa de las 
 SALMERÓN, María Angélica, MARIE DE GOURNAY: EN DEFENSA DE LA ALQUIMIA Y DE LA EDUCACIÓN CIENTÍFICA DE LAS MUJERES, en La Ciencia y el Hombre, Distintas Y Distantes: Mujeres En La Ciencia  [en línea] 2017. <https://www.uv.mx/cienciahombre/revistae/vol30num2/articulos/marie-gournay.html>. [Consulta: 4 de julio, 2021.]
 
 Siglo XVI - María Le Jars de Gournay, en MUJERES QUE HACEN LA HISTORIA - BREVES BIOGRAFÍAS [en línea] 2011. <https://mujeresquehacenlahistoria.blogspot.com/2011/04/siglo-xvi-maria-le-jars-de-gournay.html>. [Consulta: 4 de julio, 2021.]
+
+Trad. CABRÉ, Montserrat, RUBIO, Esther,  “Marie DE GOURNAY, Escritos sobre la igualdad y en defensa de las mujeres”, en Vínculos de Historia num. 5 [en línea], Madrid, 2014. <https://ruidera.uclm.es/xmlui/bitstream/handle/10578/10964/marie%20de%20gournay.pdf?sequence=1&isAllowed=y>.  [Consulta: 6 de julio, 2021]
+
+OJEA, Maria Elena, “MARIE DE GOURNAY Y RITA LEVI-MONTALCINI: LA QUERELLA DE LAS MUJERES EN UN TIEMPO DE CAMBIOS”, en Revista Internacional de Culturas y Literaturas [en línea], 2017. <http://institucional.us.es/revistas/Culturas/20/PDF/05_Ojea_Elena.pdf>. [Consulta: 6 de julio, 2021]
+

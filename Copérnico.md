@@ -28,9 +28,9 @@ Cabe destacar que la mayoría de las fuentes hacen una pequeña reflexión respe
 
 Para poder entender de qué va la Revolución copernicana, se recomienda escuchar el siguiente podcast: 
 
-1.	Para entender el contexto histórico-cultural del Renacimiento, aquí se explica la visión que se tenía del universo antes de esta revolución .[Click aqui]_(https://youtu.be/AlaRg8cYe7I)
-2.	Para poder comprender mejor lo qué es la **Revolución copernicana**, aquí el proceso y sus distintas implicaciones: .[Click aqui]_(https://youtu.be/5NghnM_marw)
-3.	Para terminar, en este podcast se lee un fragmento del Libro *Sobre las revoluciones de las esferas celestes* y un comentario del mismo .[Click aqui]_(https://youtu.be/meKsG3h1-1g)
+1.	Para entender el contexto histórico-cultural del Renacimiento, aquí se explica la visión que se tenía del universo antes de esta revolución .[Click aqui] (https://youtu.be/AlaRg8cYe7I)
+2.	Para poder comprender mejor lo qué es la **Revolución copernicana**, aquí el proceso y sus distintas implicaciones: .[Click aqui] (https://youtu.be/5NghnM_marw)
+3.	Para terminar, en este podcast se lee un fragmento del Libro *Sobre las revoluciones de las esferas celestes* y un comentario del mismo .[Click aqui] (https://youtu.be/meKsG3h1-1g)
 
 ## Bibliografía
 

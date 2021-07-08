@@ -19,9 +19,19 @@ artísticos. Esto se verá más claro con las tendencias de investigación que e
 
 ## Podcast: *Mysterium Cosmographicum*
 
+### 1. El Giro copernicano en el Renacimiento
 
+En este espisodio, se contextualiza el Renacimiento y se explica cómo el Giro Copernicano se inserta en este periodo. ¡Escúchalo [aquí](https://drive.google.com/drive/folders/1utIvYdQn2RpN9X9NJngWeFE605Y0k2y5)!
 
-### Tendencias de investigación últimos 15 años
+### 2. Johannes Kepler: Hombre de muchos saberes
+
+Aquí damos una pequeña biografía del personajazo que es Kepler! También comentamos su relevancia para la ciencia y el contexto religioso/teológico en el que se desenvolvió. ¡Disfrútalo [aquí](https://drive.google.com/drive/folders/1utIvYdQn2RpN9X9NJngWeFE605Y0k2y5)!
+
+### 3. El Sagrado Secreto del Cosmos
+
+Episodio en el que comentamos el texto que nos atañe en esta página. Hablamos de sus claras referencias religiosas, así como de los objetivos keplerianos con esta magnífica obra. ¡Gózalo [aquí](https://drive.google.com/drive/folders/1utIvYdQn2RpN9X9NJngWeFE605Y0k2y5)!
+
+## Tendencias de investigación últimos 15 años
 
 Es interesante señalar que, en los últimos 15 años, ha habido una gran cantidad de investigación sobre el *Mysterium Cosmographicum*. Es realmente difícil identificar
 las tendencias predominantes de investigación, en cuanto a sus temáticas. Este texto se ha prestado para hacer análisis de los temas más diversos, quedando así en 
@@ -38,13 +48,13 @@ sobre estos temas, al menos para ver si es cierto que Kepler era tan buen astró
 -*A su vez, si quieren saber qué otros tópicos se han investigado en relación al *Mysterium* ¡Chequen 
 las gráficas de abajo! Sin duda no se van a aburrir de tan colorida variedad que el Mysterium les viene a ofrecer...*
 
-#### Gráficas sobre las tendencias de investigación
+## Gráficas sobre las tendencias de investigación
 
 ![image](https://user-images.githubusercontent.com/39597903/124892315-60195880-df9f-11eb-81f9-55d497b16b7e.png)
 
 ![image](https://user-images.githubusercontent.com/39597903/124892548-95be4180-df9f-11eb-9516-18608f4c5009.png)
 
-##### Bibliografía
+## Bibliografía
 
 **Información sobre Kepler**
 

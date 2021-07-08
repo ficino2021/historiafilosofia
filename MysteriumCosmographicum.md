@@ -45,7 +45,7 @@ presentaré las tres tendencias que identifiqué como principales:
 **El Mysterium: cosmología y filosofía natural:** ¡No podría faltar! Un texto que presumiblemente es cosmológico, claro que tiene que tener investigaciones 
 sobre estos temas, al menos para ver si es cierto que Kepler era tan buen astrónomo. 
 
--*A su vez, si quieren saber qué otros tópicos se han investigado en relación al *Mysterium* ¡Chequen 
+- *A su vez, si quieren saber qué otros tópicos se han investigado en relación al *Mysterium* ¡Chequen 
 las gráficas de abajo! Sin duda no se van a aburrir de tan colorida variedad que el Mysterium les viene a ofrecer...*
 
 ## Gráficas sobre las tendencias de investigación

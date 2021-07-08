@@ -25,7 +25,7 @@ Dentro de este análisis, sí se lograron encontrar resultados con intención de
 
 ### Recomendación: *¡Los inivitamos a escuchar el podcast sobre Kepler y el Giro Copernicano!* 
 
-### **E1 CONTEXTO DEL GIRO COPERNICANO** ¡Dispomible [aquí](https://drive.google.com/drive/folders/1utIvYdQn2RpN9X9NJngWeFE605Y0k2y5)!
+### **E1 CONTEXTO DEL GIRO COPERNICANO** ¡Disponible [aquí](https://drive.google.com/drive/folders/1utIvYdQn2RpN9X9NJngWeFE605Y0k2y5)!
 
 ### **E2 JOHANES KEPLER, EL HOMBRE DE LA CIENCIA** ¡Disponible [aquí](https://drive.google.com/drive/folders/1utIvYdQn2RpN9X9NJngWeFE605Y0k2y5)!
 

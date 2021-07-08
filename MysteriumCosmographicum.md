@@ -36,4 +36,8 @@ las gráficas de abajo! Sin duda no se van a aburrir de tan colorida variedad qu
 
 ### Gráficas sobre las tendencias de investigación
 
+![image](https://user-images.githubusercontent.com/39597903/124892315-60195880-df9f-11eb-81f9-55d497b16b7e.png)
+
+
+
 -Versión 1

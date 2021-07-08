@@ -10,12 +10,12 @@ más llaman la atención en la academia (principalmente).
 
 ## Podcasts
 
-[E1 El Giro copernicano en el Renacimiento] (https://drive.google.com/file/d/1v-F4_kQwBC_7XjbWK-MHpqvOW3nbsCVk/view?usp=sharing)
+[E1 El Giro copernicano en el Renacimiento] (https://drive.google.com/file/d/1v-F4_kQwBC_7XjbWK-MHpqvOW3nbsCVk/view?usp=sharing).
 
-[E2 Johannes Kepler y el hombre de la ciencia] (https://drive.google.com/file/d/1Z5rd9N2hljnJFX5-f00gS-xuD4K22rrl/view?usp=sharing)
+[E2 Johannes Kepler y el hombre de la ciencia] (https://drive.google.com/file/d/1Z5rd9N2hljnJFX5-f00gS-xuD4K22rrl/view?usp=sharing).
 Presentación General a Kepler
 
-[E3 El *Mysterium*: El secreto del Universo] (https://drive.google.com/file/d/19azhteOLF91i-JdRRLmMvB71zsg3-HBv/view?usp=sharing)
+[E3 El *Mysterium*: El secreto del Universo] (https://drive.google.com/file/d/19azhteOLF91i-JdRRLmMvB71zsg3-HBv/view?usp=sharing).
 Comentario de un fragmento del texto *Mysterium Cosmographicum*
 
 

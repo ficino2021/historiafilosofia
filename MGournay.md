@@ -25,7 +25,11 @@ Dentro de este análisis, sí se lograron encontrar resultados con intención de
 
 ### Recomendación: *¡Los inivitamos a escuchar el podcast sobre Kepler y el Giro Copernicano!* 
 
-(Falta insertar podcast)
+### **E1 CONTEXTO DEL GIRO COPERNICANO** ¡Dispomible [aquí](https://drive.google.com/drive/folders/1utIvYdQn2RpN9X9NJngWeFE605Y0k2y5)!
+
+### **E2 JOHANES KEPLER, EL HOMBRE DE LA CIENCIA** ¡Disponible [aquí](https://drive.google.com/drive/folders/1utIvYdQn2RpN9X9NJngWeFE605Y0k2y5)!
+
+### **E3 EL MYSTERIUM: EL SECRETO DEL UNIVERSO** ¡Disponible [aquí](https://drive.google.com/drive/folders/1utIvYdQn2RpN9X9NJngWeFE605Y0k2y5)!
 
 # Fuentes de Consulta
 ANTOLIN, Maria Sol, Marie de Gournay, precursora histórica del feminismo, en Diario Feminista [en línea], Barcelona, España, junio, 2017. <https://eldiariofeminista.info/2020/06/06/marie-de-gournay-precursora-historica-del-feminismo/>.  [Consulta: 2 de julio, 2021.]

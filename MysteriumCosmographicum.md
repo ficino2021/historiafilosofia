@@ -2,7 +2,7 @@
 layout: page
 title: Mysterium Cosmographicum
 ---
-#Mysterium Cosmographicum: Un Recorrido por el Cosmos
+# Mysterium Cosmographicum: Un Recorrido por el Cosmos
 
 **Kepler**
 
@@ -17,7 +17,7 @@ todo y para el ordenamiento de los planetas”. Lo que el autor buscaba, era det
 este texto no se limita a hacer únicamente cálculos matemáticos y análisis astronómicos; pues, se pueden rastrear aspectos religiosos, teológicos, místios y hasta
 artísticos. Esto se verá más claro con las tendencias de investigación que están aquí abajo. 
 
-##Tendencias de investigación últimos 15 años
+## Tendencias de investigación últimos 15 años
 
 Es interesante señalar que, en los últimos 15 años, ha habido una gran cantidad de investigación sobre el *Mysterium Cosmographicum*. Es realmente difícil identificar
 las tendencias predominantes de investigación, en cuanto a sus temáticas. Este texto se ha prestado para hacer análisis de los temas más diversos, quedando así en 
@@ -34,6 +34,6 @@ sobre estos temas, al menos para ver si es cierto que Kepler era tan buen astró
 -*A su vez, si quieren saber qué otros tópicos se han investigado en relación al *Mysterium* ¡Chequen 
 las gráficas de abajo! Sin duda no se van a aburrir de tan colorida variedad que el Mysterium les viene a ofrecer...*
 
-###Gráficas sobre las tendencias de investigación
+### Gráficas sobre las tendencias de investigación
 
 -Versión 1

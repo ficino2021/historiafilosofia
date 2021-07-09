@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Revolución copernicana 
+title:  Copernicana 
 ---
 
 # Cuando el ser humano dejó de ser el centro del universo

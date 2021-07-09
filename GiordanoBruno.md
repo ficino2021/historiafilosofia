@@ -1,7 +1,4 @@
----
-layout: page
-title: Bruno
----
+
 
 # Giordano Bruno, su legado
 

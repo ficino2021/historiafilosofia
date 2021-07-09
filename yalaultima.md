@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about 
+title: Heliocentrismo 
 ---
 # Copérnico y el Heliocentrismo
 

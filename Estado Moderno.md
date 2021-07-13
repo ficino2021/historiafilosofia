@@ -6,7 +6,7 @@ title: NACIMIENTO DEL ESTADO Y LA POLITICA MODERNA
 #                                               RENACIMIENTO: NACIMIENTO DE LOS ESTADOS MODERNOS
 
 
-## ATECEDENTES 
+## ANTECEDENTES 
 
 El renacimiento es bien conocido por sus avances culturales, artísticos, sociales y científicos. Si bien eso es cierto, una de las partes que considero mas importantes del renacimiento, es el surgimiento de las políticas modernas y el nacimiento de lo que se conoce como el estado moderno. 
 
@@ -15,7 +15,7 @@ En el periodo del renacimiento es cuando las grandes potencias europeas comienza
 
 #                                                                 PODCAST
 
-## RENCIMIENTO 
+## RENACIMIENTO 
  LA CONFORMACION DEL NUEVO MUNDO
 [aquí](https://drive.google.com/file/d/1QdPQFfIoXSRlcn6yIxmtvLmkNGe23lCz/view?usp=sharing)
 

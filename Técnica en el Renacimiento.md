@@ -1,6 +1,6 @@
 ---
-
-La Cuchara Renacentista
+layout: page
+title: La Cuchara Renacentista
 ---
 
 # Nicolas de Cusa

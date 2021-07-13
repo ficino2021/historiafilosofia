@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: rojo
 title: La Cuchara Renacentista
 ---
 

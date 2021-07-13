@@ -65,7 +65,7 @@ Las estadísticas aproximadas conforme a la investigación sobre Maquiavelo son 
 
 *Vegas, J. L. C. (2016). Maquiavelo, el maquiavelismo y la razón de Estado. Peri, 8(2), 1-20. file:///C:/Users/jesus/Downloads/1854-6067-2-PB.pdf*
 
-*Londoño Villegas, V. A. (2017). El conflicto, la guerra y la paz. Una aproximación desde la perspectiva del realismo político en Nicolás Maquiavelo. Campos En Ciencias Sociales, 5(1 y 2),https://revistas.usantotomas.edu.co/index.php/campos/article/view/3782*
+*Londoño Villegas, V. A. (2017). El conflicto, la guerra y la paz. Una aproximación desde la perspectiva del realismo político en Nicolás Maquiavelo. Campos En Ciencias Sociales, 5(1 y 2)*
 
 *Forte Juan Manuel, (2020). Maquiavelo. Republicas y principados, antiguos y modernos. Daimon, Revista de filosofia, Núm. 80, pp.https://dx.doi.org/10.6018/daimon.317821* 
 

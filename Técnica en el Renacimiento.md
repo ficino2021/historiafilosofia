@@ -33,41 +33,40 @@ Imágen de la Gráfica
 
 ### Bibliografía de las tendencias usadas
 
-Charles H. Carman, Leon Battista Alberti and Nicholas Cusanus. United Kingdom, Asghgate, 2014.
+- Charles H. Carman, Leon Battista Alberti and Nicholas Cusanus. United Kingdom, Asghgate, 2014.
 
-Christopher Levy, Ian, Rita George-Tvrtkovic y Donald F. Duclow, Nicholas of Cusa and Islam: polemic and dialogue in the late Middle Ages. Leiden, Brill, 2014
+- Christopher Levy, Ian, Rita George-Tvrtkovic y Donald F. Duclow, Nicholas of Cusa and Islam: polemic and dialogue in the late Middle Ages. Leiden, Brill, 2014
  
-D’Amico, Claudia,  Acerca del carácter irreductible de la mens humana en Nicolás de Cusa: unidad y número en Franciscanum, 60 (169). Bogotá,  2018, pp. 87-107.
+- D’Amico, Claudia,  Acerca del carácter irreductible de la mens humana en Nicolás de Cusa: unidad y número en Franciscanum, 60 (169). Bogotá,  2018, pp. 87-107.
 
-D´Amico, Claudia, Nicolas de Cusa en diálogo con sus fuentes en Mirabilia, 19. Barcelona, 2014, pp. 79-103
+- D´Amico, Claudia, Nicolas de Cusa en diálogo con sus fuentes en Mirabilia, 19. Barcelona, 2014, pp. 79-103
 
-Gonzáles Ríos, J., La concepción intelectual de lo divino como coincidentia oppositorum a la luz de lo maximum et minimum absolutum en el pensamiento de Nicolás de Cusa en Princípios, 18 (30). Brasil, 2011, pp. 27- 52
+- Gonzáles Ríos, J., La concepción intelectual de lo divino como coincidentia oppositorum a la luz de lo maximum et minimum absolutum en el pensamiento de Nicolás de Cusa en Princípios, 18 (30). Brasil, 2011, pp. 27- 52
 
-Gonzáles Ríos, J., Los grados de conocimiento hacia la visión mística en el pensamiento de Nicolás de Cusa (1401-1464) en Mirabilia, 14. Barcelona, 2012, pp. 184-205
-H. Schwaetzer, Cuadros que se pintan a sí mismos. Fundamentos de una mitología de la razón en Nicolás de Cusa en Palabra y Razón. Revista de Teología, Filosofía y Ciencias de la Religión, 18. Chile, 2020, pp 122-139
+- Gonzáles Ríos, J., Los grados de conocimiento hacia la visión mística en el pensamiento de Nicolás de Cusa (1401-1464) en Mirabilia, 14. Barcelona, 2012, pp. 184-205
 
-Olivares Zorrilla, Rocío, Sor Juana y Nicolás de Cusa en Hipogrifo, 2 (2). España, 2014, pp. 107-125
+- H. Schwaetzer, Cuadros que se pintan a sí mismos. Fundamentos de una mitología de la razón en Nicolás de Cusa en Palabra y Razón. Revista de Teología, Filosofía y Ciencias de la Religión, 18. Chile, 2020, pp 122-139
 
-Santa Cruz, Victor, Juan de Segovia y Nicolás de Cusa frente al Islam: su comprensión intelectualista de la fe cristiana en Anuario de Historia de la Iglesia, 16. Pamplona, 2007, pp. 181-194
+- Olivares Zorrilla, Rocío, Sor Juana y Nicolás de Cusa en Hipogrifo, 2 (2). España, 2014, pp. 107-125
 
-Soto-Bruna, M.J. 2021. El significado ontológico y gnoseológico de la teofanía en Nicolás de Cusa en Disputatio. Philosophical Research Bulletin, 10 (16). Madrid, 2021, pp. 1-25.
+- Santa Cruz, Victor, Juan de Segovia y Nicolás de Cusa frente al Islam: su comprensión intelectualista de la fe cristiana en Anuario de Historia de la Iglesia, 16. Pamplona, 2007, pp. 181-194
 
-Vaillo Usón, Borja, El estatuto ontológico de la finitud humana y su relación al Creador en Nicolás de Cusa, Pamplona, 2021, Tesis de Grado en Filosofía. Universidad de Navarra, Facultad de Filosofía y Letras, pp. 53
+- Soto-Bruna, M.J. 2021. El significado ontológico y gnoseológico de la teofanía en Nicolás de Cusa en Disputatio. Philosophical Research Bulletin, 10 (16). Madrid, 2021, pp. 1-25.
+
+- Vaillo Usón, Borja, El estatuto ontológico de la finitud humana y su relación al Creador en Nicolás de Cusa, Pamplona, 2021, Tesis de Grado en Filosofía. Universidad de Navarra, Facultad de Filosofía y Letras, pp. 53
 
 ### Enlaces a sitios que se enfocan en Nicolas de Cusa (Tres de ellos son alemánes y uno es una entrada enciclopedica)
 
-Entrada en la enciclopedia de Stanford  
+1. [Entrada en la enciclopedia de Stanford](https://plato.stanford.edu/entries/cusanus/#Bib) 
 
+2. [Sitio del Hospital de San Nicolas](https://www.cusanus.de/cms/front_content.php?idcat=11)
 
-https://plato.stanford.edu/entries/cusanus/#Bib 
-https://www.cusanus.de/cms/front_content.php?idcat=11
-https://jasper-hopkins.info/
+3. [Estudioso de Nicolas de Cusa](https://jasper-hopkins.info/)
 
+4. [Nicolás de Cusa en Español](https://web.archive.org/web/20100111054450/http://www.circulocusano.com.ar/cusa_en_castellano.htm#Rese%C3%B1as%20sobre%20bibliograf%C3%ADa%20secundaria)
 
+5. [Página alemana dedicada a Nicolas de Cusa](http://www.cusanus-portal.de/)
 
-https://web.archive.org/web/20100111054450/http://www.circulocusano.com.ar/cusa_en_castellano.htm#Rese%C3%B1as%20sobre%20bibliograf%C3%ADa%20secundaria
-
-http://www.cusanus-portal.de/
 
 
 

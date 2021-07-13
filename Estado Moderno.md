@@ -41,12 +41,12 @@ Uno de los cargos de Maquiavelo en la Oficina del Primer Ministro es el de secre
 Las tendencias conforme a Maquiavelo, su obra y sus ideas en el periodo de 2010 a 2021, se mantienen ubicadas casi en su materia por el planteamiento político-militar; principalmente centrado en aspectos de gobierno, jurídicos, armamentísticos y geopolíticos.
 Las estadísticas aproximadas conforme a la investigación sobre Maquiavelo son las siguientes. 
 
-Pensamiento sobre el estado moderno: %36
-Biográficos: %8
-Políticas militares: %6
-Geopolítica: %18
-Problemáticas jurídicas: %21
-Poder y violencia: %11
+**Pensamiento sobre el estado moderno: %36**
+**Biográficos: %8**
+**Políticas militares: %6**
+**Geopolítica: %18**
+**Problemáticas jurídicas: %21**
+**Poder y violencia: %11**
 
 
 ![image](https://user-images.githubusercontent.com/87249018/125393013-ca9a1200-e36c-11eb-8ccc-6f10c8f0f8e3.png)

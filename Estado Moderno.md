@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NACIMIENTO DEL ESTADO Y LA POLITICA MODERNA
+title: El estado
 ---
 
 #                                               RENACIMIENTO: NACIMIENTO DE LOS ESTADOS MODERNOS

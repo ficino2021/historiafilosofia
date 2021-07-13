@@ -16,15 +16,15 @@ En el periodo del renacimiento es cuando las grandes potencias europeas comienza
 #                                                                 PODCAST
 
 ## RENCIMIENTO 
-### LA CONFORMACION DEL NUEVO MUNDO
+ LA CONFORMACION DEL NUEVO MUNDO
 [aquí](https://drive.google.com/file/d/1QdPQFfIoXSRlcn6yIxmtvLmkNGe23lCz/view?usp=sharing)
 
 ## MAQUIAVELO PADRE DEL ESTADO MODERNO
-### VIDA Y PENSAMIETO
+ VIDA Y PENSAMIETO
 [aquí](https://drive.google.com/file/d/1pbW9XZR7S2NxemgA2KVPFIYhzZL3Zmfn/view?usp=sharing)
 
 ## LA IMPORTANCIA DE LA GUERRA Y EL PODER MILITAR PARA UN ESTADO
-### MEDITACIONES "DEL ARTE DE LA GUERRA" Y "EL PRINCIPE"
+ MEDITACIONES "DEL ARTE DE LA GUERRA" Y "EL PRINCIPE"
 [aquí](https://drive.google.com/file/d/16WFBltTNDOmaILYf85PrVPb7chlX1QMA/view?usp=sharing)
 
 
@@ -50,3 +50,38 @@ Las estadísticas aproximadas conforme a la investigación sobre Maquiavelo son 
 
 
 ![image](https://user-images.githubusercontent.com/87249018/125393013-ca9a1200-e36c-11eb-8ccc-6f10c8f0f8e3.png)
+
+## Bibliografía
+
+*E. Benner, El príncipe de Maquiavelo: una nueva lectura (Oxford: 2013).*
+
+*N. Capponi, Un príncipe inverosímil: La vida y la época de Maquiavelo (Cambridge: 2010).*
+
+*CH Zuckert, Política de Maquiavelo (Chicago: 2017)*
+
+*Ávila-Fuenmayor, F. -A. (2012). El Poder: de Maquiavelo a Foucault. (I. d. (LUZ), Ed.) Revista de Ciencias Sociales (RCS), 28(2), 367 -380.*
+
+*Suárez-Iñíguez, E. MAQUIAVELO. Estudios Políticos, (2016). http://revistas.unam.mx/index.php/rep/article/view/59811/52750*
+
+*Vegas, J. L. C. (2016). Maquiavelo, el maquiavelismo y la razón de Estado. Peri, 8(2), 1-20. file:///C:/Users/jesus/Downloads/1854-6067-2-PB.pdf*
+
+*Londoño Villegas, V. A. (2017). El conflicto, la guerra y la paz. Una aproximación desde la perspectiva del realismo político en Nicolás Maquiavelo. Campos En Ciencias Sociales, 5(1 y 2),https://revistas.usantotomas.edu.co/index.php/campos/article/view/3782*
+
+*Forte Juan Manuel, (2020). Maquiavelo. Republicas y principados, antiguos y modernos. Daimon, Revista de filosofia, Núm. 80, pp.https://dx.doi.org/10.6018/daimon.317821* 
+
+*Barrientos del Monte Fernando, (2017). Nicolás Maquiavelo: Principios políticos, de Héctor Zamitiz Gamboa,Revista Mexicana de Análisis Político y Administración Pública,Vol. 6, http://www.remap.ugto.mx/index.php/remap/article/view/228/187*
+
+*Lozano Moheno, Ignacio. (2013). Entre la violencia y la prudencia: ensayo sobre la racionalidad política de Maquiavelo.Estudios Políticos; Num. 23. https://repositorio.unam.mx/contenidos/47896* 
+
+*MAQUIAVELO, Nicolás. Maquiavelo. RBA Libros, 2016.*
+
+*MAQUIAVELO, Nicolás. Del Arte de la Guerra. Tecnos. Madrid, 1988*
+
+*ÁLVAREZ YÁGÜEZ, Jorge, Política y república. Aristóteles y Maquiavelo, Madrid, Editorial Biblioteca Nueva, 2012.*
+
+*DEL ÁGUILA, Rafael, “Maquiavelismo: el modelo de la estrategia en Maquiavelo”, en FORTE, 2008.*
+
+*ENCEL, Frédéric. El Arte de la Guerra. Alianza Editorial. Madrid, 2002.* 
+
+*GARCÍA CANEIRO, José y VIDARTE, Francisco J. Guerra y filosofía. Tirant lo Blanch. Valencia, 2002*
+

@@ -36,7 +36,7 @@ title: La Cuchara Renacentista
 Imágen de la Gráfica
 
 
-### Bibliografía de las tendencias usadas
+### Bibliografía de los artículos usados
 
 - Charles H. Carman, Leon Battista Alberti and Nicholas Cusanus. United Kingdom, Asghgate, 2014.
 

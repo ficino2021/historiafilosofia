@@ -33,7 +33,8 @@ title: La cuchara
 **La gráfica que elaboramos se basa en 11 investigaciones (2 libros, 1 tesis y 8 artículos) publicadas entre el 2007 y el 2021. Distingue 9 temas y conceptos principales. Una misma investigación puede representar más de un tema** 
 
 
-Imágen de la Gráfica
+
+![Tendencias sobre Nicolas de Cusa](https://user-images.githubusercontent.com/84338765/125871863-7b803cb6-9214-40a3-8fee-6ef297af14bd.png)
 
 
 ### Bibliografía de los artículos usados
@@ -71,10 +72,6 @@ Imágen de la Gráfica
 4. [Nicolás de Cusa en Español](https://web.archive.org/web/20100111054450/http://www.circulocusano.com.ar/cusa_en_castellano.htm#Rese%C3%B1as%20sobre%20bibliograf%C3%ADa%20secundaria)
 
 5. [Página alemana dedicada a Nicolas de Cusa](http://www.cusanus-portal.de/)
-
-
-
-
 
 
 

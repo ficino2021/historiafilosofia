@@ -1,6 +1,6 @@
 ---
 layout : page
-title: about
+title: Pico
 ---
 # Pico della Mirandola. Pensamiento e impacto.
 

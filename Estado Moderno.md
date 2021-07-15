@@ -1,6 +1,6 @@
 ---
 layout: page
-title: El estado
+title: Estado
 ---
 
 #                                               RENACIMIENTO: NACIMIENTO DE LOS ESTADOS MODERNOS

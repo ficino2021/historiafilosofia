@@ -55,6 +55,3 @@ El amor en los tiempos del Renacimiento, UFM, Departamento de Educación, 2021
 
 Los temas: A vueltas con el amor cortés, La Lírica Renacentista, 2021
 
-![IMG_9508](https://user-images.githubusercontent.com/77706301/125870154-cbbe56d8-d806-48d1-8ea0-e5728d994642.jpg)
-
-

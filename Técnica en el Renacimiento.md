@@ -1,6 +1,6 @@
 ---
 layout: page
-title: La Cuchara Renacentista
+title: La cuchara 
 ---
 
 ## El problema de la Técnica en el Renacimiento y el pensamiento de Nicolas de Cusa

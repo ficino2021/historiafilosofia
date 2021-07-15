@@ -1,6 +1,6 @@
 ---
 diseño: página
-title: antropología de Pico della Mirandola
+title: Pico antropologia
 ---
 # El reflejo  antropológico renacentista presente en *Oratio de hominis dignitate,* de Giovanni Pico della Mirándola.
 

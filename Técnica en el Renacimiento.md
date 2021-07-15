@@ -30,7 +30,7 @@ title: La cuchara
 *Regresando a los temas, lo que hicimos fue clasificar las tendencias de acuerdo a campos de conocimiento y conceptos que no salen de las disciplinas filosoficas y el ámbito religioso, a excepción de un caso. También notamos que en español parece no haber libros dedicados al estudio de Nicolas de Cusa, sólo encontramos artículos de revistas y tres tesis, de las cuáles sólo utilizamos una para graficar las tendencias. También nos pareció curioso que los dos libros que encontramos estuvieran escritos en inglés, parece que no hay un interés en publicar libros de Nicolás de Cusa en español en la última decáda.*  
 
 
-**La gráfica que elaboramos se basa en 11 investigaciones (2 libros, 1 tesis y 8 artículos) publicadas entre el 2007 y el 2021. Distingue 9 temas y conceptos principales. Una misma investigación puede representar más de un tema** 
+**La gráfica que elaboramos se basa en 11 investigaciones (2 libros, 1 tesis y 8 artículos) publicadas entre el 2007 y el 2021. Distingue 9 temas y conceptos principales. Una misma investigación puede representar más de un tema.** 
 
 
 
@@ -39,27 +39,27 @@ title: La cuchara
 
 ### Bibliografía de los artículos usados
 
-- Charles H. Carman, Leon Battista Alberti and Nicholas Cusanus. United Kingdom, Asghgate, 2014.
+- Charles H. Carman, *Leon Battista Alberti and Nicholas Cusanus*. United Kingdom, Asghgate, 2014.
 
-- Christopher Levy, Ian, Rita George-Tvrtkovic y Donald F. Duclow, Nicholas of Cusa and Islam: polemic and dialogue in the late Middle Ages. Leiden, Brill, 2014
+- Christopher Levy, Ian, Rita George-Tvrtkovic y Donald F. Duclow, *Nicholas of Cusa and Islam: polemic and dialogue in the late Middle Ages*. Leiden, Brill, 2014
  
-- D’Amico, Claudia,  Acerca del carácter irreductible de la mens humana en Nicolás de Cusa: unidad y número en Franciscanum, 60 (169). Bogotá,  2018, pp. 87-107.
+- D’Amico, Claudia, *Acerca del carácter irreductible de la mens humana en Nicolás de Cusa: unidad y número* en Franciscanum, 60 (169). Bogotá,  2018, pp. 87-107.
 
-- D´Amico, Claudia, Nicolas de Cusa en diálogo con sus fuentes en Mirabilia, 19. Barcelona, 2014, pp. 79-103
+- D´Amico, Claudia, *Nicolas de Cusa en diálogo con sus fuentes* en Mirabilia, 19. Barcelona, 2014, pp. 79-103
 
-- Gonzáles Ríos, J., La concepción intelectual de lo divino como coincidentia oppositorum a la luz de lo maximum et minimum absolutum en el pensamiento de Nicolás de Cusa en Princípios, 18 (30). Brasil, 2011, pp. 27- 52
+- Gonzáles Ríos, J., *La concepción intelectual de lo divino como coincidentia oppositorum a la luz de lo maximum et minimum absolutum en el pensamiento de Nicolás de Cusa* en Princípios, 18 (30). Brasil, 2011, pp. 27- 52
 
-- Gonzáles Ríos, J., Los grados de conocimiento hacia la visión mística en el pensamiento de Nicolás de Cusa (1401-1464) en Mirabilia, 14. Barcelona, 2012, pp. 184-205
+- Gonzáles Ríos, J., *Los grados de conocimiento hacia la visión mística en el pensamiento de Nicolás de Cusa (1401-1464)* en Mirabilia, 14. Barcelona, 2012, pp. 184-205
 
-- H. Schwaetzer, Cuadros que se pintan a sí mismos. Fundamentos de una mitología de la razón en Nicolás de Cusa en Palabra y Razón. Revista de Teología, Filosofía y Ciencias de la Religión, 18. Chile, 2020, pp 122-139
+- H. Schwaetzer, *Cuadros que se pintan a sí mismos. Fundamentos de una mitología de la razón en Nicolás de Cusa* en Palabra y Razón. Revista de Teología, Filosofía y Ciencias de la Religión, 18. Chile, 2020, pp 122-139
 
-- Olivares Zorrilla, Rocío, Sor Juana y Nicolás de Cusa en Hipogrifo, 2 (2). España, 2014, pp. 107-125
+- Olivares Zorrilla, Rocío, *Sor Juana y Nicolás de Cusa* en Hipogrifo, 2 (2). España, 2014, pp. 107-125
 
-- Santa Cruz, Victor, Juan de Segovia y Nicolás de Cusa frente al Islam: su comprensión intelectualista de la fe cristiana en Anuario de Historia de la Iglesia, 16. Pamplona, 2007, pp. 181-194
+- Santa Cruz, Victor, *Juan de Segovia y Nicolás de Cusa frente al Islam: su comprensión intelectualista de la fe cristiana en Anuario de Historia de la Iglesia*, 16. Pamplona, 2007, pp. 181-194
 
-- Soto-Bruna, M.J. 2021. El significado ontológico y gnoseológico de la teofanía en Nicolás de Cusa en Disputatio. Philosophical Research Bulletin, 10 (16). Madrid, 2021, pp. 1-25.
+- Soto-Bruna, M.J. 2021. *El significado ontológico y gnoseológico de la teofanía en Nicolás de Cusa* en Disputatio. Philosophical Research Bulletin, 10 (16). Madrid, 2021, pp. 1-25.
 
-- Vaillo Usón, Borja, El estatuto ontológico de la finitud humana y su relación al Creador en Nicolás de Cusa, Pamplona, 2021, Tesis de Grado en Filosofía. Universidad de Navarra, Facultad de Filosofía y Letras, pp. 53
+- Vaillo Usón, Borja, *El estatuto ontológico de la finitud humana y su relación al Creador en Nicolás de Cusa*, Pamplona, 2021, Tesis de Grado en Filosofía. Universidad de Navarra, Facultad de Filosofía y Letras, pp. 53
 
 ### Enlaces a sitios que se enfocan en Nicolas de Cusa
 

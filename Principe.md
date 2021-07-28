@@ -35,7 +35,7 @@ es mi interpretación de esas tendencias, las que fui capaz de identificar.
 Las tendencias entorno a las investigaciones académicas relacionadas con Maquiavelo en los últimos años son bastante ortodoxas, tomando en
 cuenta publicaciones anteriores al 2010. Los trabajos de investigación a cerca de Maquiavelo han sido y son propios de lo que se esperaría de
 un filósofo político: conceptos como el Estado, la política, la república, son los que figuran con más centralidad y frecuencia. En los gráficos
-queda demostrado como esos conceptos ocupan la mayor parte del [pastel](https://github.com/Pangloss019/Bloque-2/blob/main/Maquiavelo-autores.png) 
+queda demostrado como esos conceptos ocupan la mayor parte del [pastel](https://github.com/Pangloss019/Bloque-2/blob/main/Grafico%20remasterizado.docx)
 
 Algo a notar, dentro de la ortodoxia de estas investigaciones, es el patente interés por el contexto histórico del personaje, con palabras clave
 como florentino o Medicis, Borgias o Leonardos saltando a la vista junto al nombre de Maquiavelo.
